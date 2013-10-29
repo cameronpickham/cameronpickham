@@ -1,0 +1,15 @@
+body {
+  margin-top: 50px;
+}
+
+.header {
+  height: 700px;
+  background: url(http://www.cameronpickham.com/header.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.tagline {
+  text-align: center;
+  color: #fff;
+  text-shadow: 0 0 10px #000;
+}
