@@ -1,0 +1,9 @@
+#container {
+  width: 768px;
+  height: 128px;
+  top: 50%;
+  left: 50%;
+  margin-top: -64px;
+  margin-left: -384px;
+  position: absolute;
+}
